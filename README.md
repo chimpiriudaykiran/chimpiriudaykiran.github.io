@@ -1,11 +1,11 @@
 # AI Vision Verse
 
-### Step 1: Install streamlit using pip 
+### Step 1: Install streamlit using pip
 pip install streamlit 
 
 ### Step 2 : add path to your environmental variables for windows. 
 
-### step 3 :  Now to run the whole project 
+### step 3 :  Now to run the whole project
 streamlit run NavBar.py
 
 ## Introduction 
