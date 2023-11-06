@@ -1,12 +1,12 @@
 # AI Vision Verse
 
 ### Step 1: Install streamlit using pip 
-            pip install streamlit 
+pip install streamlit 
 
 ### Step 2 : add path to your environmental variables for windows. 
 
 ### step 3 :  Now to run the whole project 
-              streamlit run NavBar.py
+streamlit run NavBar.py
 
 ## Introduction 
 This application is built using the streamlit framework in python usefull for the people who are physically challenged and then can understand the insights from Data. 
